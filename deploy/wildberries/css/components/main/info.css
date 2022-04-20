@@ -36,7 +36,7 @@
 }
 .connection::before {
 	content: '';
-	background: url('/assets/icons/line-connection.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/line-connection.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -49,7 +49,7 @@
 }
 .connection::after {
 	content: '';
-	background: url('/assets/icons/ellipse.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/ellipse.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -74,7 +74,7 @@
 }
 .consultations::before {
 	content: '';
-	background: url('/assets/icons/line-consultations.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/line-consultations.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -87,7 +87,7 @@
 }
 .consultations::after {
 	content: '';
-	background: url('/assets/icons/ellipse.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/ellipse.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -103,7 +103,7 @@
 }
 .shipments::before {
 	content: '';
-	background: url('/assets/icons/line-shipment.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/line-shipment.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -116,7 +116,7 @@
 }
 .shipments::after {
 	content: '';
-	background: url('/assets/icons/ellipse.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/ellipse.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -141,7 +141,7 @@
 }
 .img-container__bg {
 	position: absolute;
-	background: url('/assets/images/woman-ellipse.png');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/images/woman-ellipse.png');
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: bottom;
@@ -162,7 +162,7 @@
 }
 .pricing::before {
 	content: '';
-	background: url('/assets/icons/line-pricing.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/line-pricing.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -175,7 +175,7 @@
 }
 .pricing::after {
 	content: '';
-	background: url('/assets/icons/ellipse.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/ellipse.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -191,7 +191,7 @@
 }
 .analysis::before {
 	content: '';
-	background: url('/assets/icons/line-analysis.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/line-analysis.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -204,7 +204,7 @@
 }
 .analysis::after {
 	content: '';
-	background: url('/assets/icons/ellipse.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/ellipse.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -220,7 +220,7 @@
 }
 .supplies::before {
 	content: '';
-	background: url('/assets/icons/line-supplies.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/line-supplies.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -233,7 +233,7 @@
 }
 .supplies::after {
 	content: '';
-	background: url('/assets/icons/ellipse.svg');
+	background: url('../../../../../../maximusMedia__test-task/deploy/wildberries/assets/icons/ellipse.svg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;

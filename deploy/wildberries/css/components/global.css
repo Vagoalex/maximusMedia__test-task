@@ -1,0 +1,17 @@
+body {
+	font-family: 'Gilroy', 'Arial', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 156%;
+	min-width: 320px;
+	height: 100%;
+	position: relative;
+	overflow-x: hidden;
+	color: #000;
+}
+
+.wrapper {
+	max-width: 1300px;
+	margin: 0 auto;
+}
