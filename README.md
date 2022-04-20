@@ -2,11 +2,12 @@
 
 ### Вот ссылка на GitHub pages
 
-_https://в данный момент пока в разработке:)_
+_https://vagoalex.github.io/maximusMedia__test-task/deploy/wildberries/_
 
 Выполнено:
 
-- Wildberries (пока что без адаптива)
+- Wildberries (с адаптивом),
+- Works (в процессе)
 
 - _Мои соц сети:_
   - GitHub: _github.com/Vagoalex_
