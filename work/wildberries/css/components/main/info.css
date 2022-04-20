@@ -1,0 +1,242 @@
+.info {
+	padding-top: 87px;
+}
+.info-section {
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+	height: 100%;
+}
+.info-section::before {
+	content: '';
+	position: absolute;
+	background: url('../../../../wildberries/assets/images/woman-ellipse.png');
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: bottom;
+	bottom: 9px;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+.container {
+	display: flex;
+	cursor: pointer;
+	z-index: 1;
+}
+
+.first-container {
+	display: flex;
+	flex-direction: column;
+	text-align: end;
+}
+
+.container-info {
+	background: #ffffff;
+	max-width: 420px;
+	border-radius: 10px;
+	padding: 46px 30px 32px 30px;
+	margin-top: 50px;
+}
+.container-info:first-child {
+	margin-top: 0px;
+}
+
+.connection {
+	position: relative;
+}
+.connection::before {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/line-connection.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 49%;
+	right: -40%;
+	width: 166px;
+	height: 675px;
+	z-index: 0;
+}
+.connection::after {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/ellipse.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 43%;
+	right: -4%;
+	width: 36px;
+	height: 36px;
+}
+
+.container-info__title {
+	margin: 0;
+	font-size: 20px;
+}
+.container-info__desk {
+	margin: 10px 0 0 0;
+	max-width: 360px;
+}
+
+.consultations {
+	position: relative;
+}
+.consultations::before {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/line-consultations.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 50%;
+	right: -32%;
+	width: 136px;
+	height: 384px;
+	z-index: 0;
+}
+.consultations::after {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/ellipse.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 41%;
+	right: -4%;
+	width: 36px;
+	height: 36px;
+}
+
+.shipments {
+	position: relative;
+}
+.shipments::before {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/line-shipment.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 48%;
+	right: -25%;
+	width: 105px;
+	height: 148px;
+	z-index: 0;
+}
+.shipments::after {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/ellipse.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 39%;
+	right: -4%;
+	width: 36px;
+	height: 36px;
+}
+
+.img-container {
+	z-index: 5;
+}
+.img-container__image {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.second-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.pricing {
+	position: relative;
+}
+.pricing::before {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/line-pricing.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 49%;
+	left: -39%;
+	width: 165px;
+	height: 676px;
+	z-index: 0;
+}
+.pricing::after {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/ellipse.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 42%;
+	left: -4%;
+	width: 36px;
+	height: 36px;
+}
+
+.analysis {
+	position: relative;
+}
+.analysis::before {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/line-analysis.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 49%;
+	left: -32%;
+	width: 136px;
+	height: 427px;
+	z-index: 0;
+}
+.analysis::after {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/ellipse.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 39%;
+	left: -4%;
+	width: 36px;
+	height: 36px;
+}
+
+.supplies {
+	position: relative;
+}
+.supplies::before {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/line-supplies.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 49%;
+	left: -25%;
+	width: 106px;
+	height: 170px;
+	z-index: 0;
+}
+.supplies::after {
+	content: '';
+	background: url('../../../../wildberries/assets/icons/ellipse.svg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 42%;
+	left: -4%;
+	width: 36px;
+	height: 36px;
+}
