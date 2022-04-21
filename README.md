@@ -7,7 +7,7 @@ _https://vagoalex.github.io/maximusMedia__test-task/deploy/wildberries/_
 Выполнено:
 
 - Wildberries (с адаптивом),
-- Works (в процессе)
+- Working (в процессе, выполнена только desktop версия, сейчас 15:40, 21.04, начинаю делать адаптив)
 
 - _Мои соц сети:_
   - GitHub: _github.com/Vagoalex_
