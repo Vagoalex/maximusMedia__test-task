@@ -1,9 +1,120 @@
 /* large */
-@media (max-width: 1400px) {
+@media (max-width: 1450px) {
+	.wrapper {
+		max-width: 1010px;
+		margin: 0 auto;
+	}
+	.header {
+		padding-top: 80px;
+	}
+	.info {
+		margin: 400px 0 0 0;
+		padding-bottom: 373px;
+	}
+	.honeycomb-cells {
+		flex-wrap: wrap;
+	}
+	.honeycomb {
+		padding: 0 80px;
+	}
+	.first-cell {
+		order: 1;
+	}
+	.second-cell {
+		order: 2;
+	}
+	.third-cell {
+		order: 3;
+	}
+	.fourth-cell {
+		order: 4;
+		margin: 0px 0px 0px 434px;
+	}
+	.fifth-cell {
+		order: 5;
+		margin: 0px 0px 0px 185px;
+		position: absolute;
+		bottom: -26.5%;
+		left: 8%;
+		z-index: 1;
+	}
+	.sample-cell {
+		left: 32.6%;
+		top: 26.5%;
+	}
+	.garanties-cell {
+		right: 0%;
+		left: 7.7%;
+		top: 51.5%;
+	}
+	.five-steps-cell {
+		position: absolute;
+		top: -54%;
+		left: 8%;
+	}
+	.call-cell {
+		position: absolute;
+		top: 103%;
+		left: 8%;
+	}
 }
 
 /* medium */
-@media (max-width: 1200px) {
+@media (max-width: 1120px) {
+	.wrapper {
+		max-width: 600px;
+		margin: 0 auto;
+		padding: 0;
+	}
+	.header__title {
+		text-align: center;
+	}
+	.info {
+		margin: 300px 0 0 0;
+		padding-bottom: 651px;
+	}
+	.honeycomb {
+		padding: 0 20px;
+	}
+	.honeycomb-cell {
+		margin: 0 -20px;
+	}
+	.honeycomb-cells {
+		justify-content: center;
+	}
+	.first-cell {
+		margin: 0px 250px 0px 0px;
+	}
+	.second-cell {
+		margin: -140px 0px 0px 250px;
+	}
+	.third-cell {
+		margin: -130px 250px 0px 0px;
+	}
+	.fourth-cell {
+		margin: -140px 0px 0px 250px;
+	}
+	.fifth-cell {
+		bottom: -21%;
+		left: 7%;
+	}
+	.five-steps-cell {
+		top: -22%;
+		left: 48%;
+	}
+
+	.sample-cell {
+		top: 102%;
+		left: 49%;
+	}
+	.garanties-cell {
+		top: 123%;
+		left: 7%;
+	}
+	.call-cell {
+		top: 143%;
+		left: 49%;
+	}
 }
 
 /* small */
