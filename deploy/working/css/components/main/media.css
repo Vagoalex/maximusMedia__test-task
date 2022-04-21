@@ -234,9 +234,6 @@
 
 /* exstra small */
 @media (max-width: 480px) {
-	.main {
-		background: rgb(107, 107, 107);
-	}
 	.wrapper {
 		max-width: 300px;
 		margin: 0 auto;
