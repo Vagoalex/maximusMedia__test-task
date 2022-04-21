@@ -119,8 +119,170 @@
 
 /* small */
 @media (max-width: 680px) {
+	.wrapper {
+		max-width: 480px;
+		margin: 0 auto;
+	}
+	.header__title {
+		font-size: 65px;
+	}
+	.info {
+		margin: 215px 0 0 0;
+		padding-bottom: 451px;
+	}
+	.honeycomb-cell {
+		background: url('../../../../../../maximusMedia__test-task/deploy/working/assets/icons/polygon-blue__small.png');
+		background-size: auto;
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 222px;
+		height: 222px;
+	}
+	.honeycomb-cell__desk {
+		margin-top: 8px;
+		font-size: 16px;
+	}
+	.honeycomb-cell__desk-forecast {
+		margin-top: 10px;
+		font-size: 12px;
+	}
+	.honeycomb-cell__img {
+		margin-top: 50px;
+		width: 25%;
+	}
+	.title {
+		font-size: 50px;
+		top: -14%;
+		color: #f1606e;
+	}
+	.first-cell {
+		margin: 0px 175px 0px 0px;
+	}
+	.second-cell {
+		margin: -120px 0px 0px 170px;
+	}
+	.third-cell {
+		margin: -123px 177px 0px 0px;
+	}
+	.fourth-cell {
+		margin: -120px 0px 0px 170px;
+	}
+	.fifth-cell {
+		bottom: -19%;
+		left: 13%;
+	}
+	.five-steps-cell {
+		background: url('../../../../../../maximusMedia__test-task/deploy/working/assets/icons/polygon-grey__medium.png');
+		background-size: auto;
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 222px;
+		height: 222px;
+		top: -24%;
+		left: 49%;
+	}
+
+	.five-steps-cell__title {
+		font-size: 130px;
+		top: -50%;
+	}
+	.five-steps-cell__desk {
+		margin-top: 98px;
+		font-size: 21px;
+		line-height: 24px;
+	}
+	.call-cell {
+		background: url('../../../../../../maximusMedia__test-task/deploy/working/assets/icons/polygon-red__small.png');
+		background-size: auto;
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 222px;
+		height: 222px;
+		top: 134%;
+	}
+	.sample-cell {
+		background: url('../../../../../../maximusMedia__test-task/deploy/working/assets/icons/polygon-grey__medium.png');
+		background-size: auto;
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 222px;
+		height: 222px;
+		top: 96%;
+		left: 50%;
+	}
+	.garanties-cell {
+		background: url('../../../../../../maximusMedia__test-task/deploy/working/assets/icons/polygon-grey__medium.png');
+		background-size: auto;
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 222px;
+		height: 222px;
+		top: 115%;
+		left: 13%;
+	}
+	.call-cell__arrow-top {
+		margin-bottom: 10px;
+	}
+	.call-cell__arrow-bottom {
+		margin-top: 10px;
+	}
+	.call-cell__desk {
+		padding-top: 10px;
+		font-size: 18px;
+	}
 }
 
 /* exstra small */
 @media (max-width: 480px) {
+	.main {
+		background: rgb(107, 107, 107);
+	}
+	.wrapper {
+		max-width: 300px;
+		margin: 0 auto;
+		padding: 0 10px;
+	}
+	.header__title {
+		font-size: 50px;
+	}
+	.info {
+		margin: 276px 0 0 0;
+		padding-bottom: 851px;
+	}
+	.honeycomb-cell:hover {
+		transform: scale(1.1);
+		transition: 0.5s;
+	}
+	.first-cell {
+		margin: 0px 79px 0px 0px;
+	}
+	.second-cell {
+		margin: -25px 0px 0px 79px;
+	}
+	.third-cell {
+		margin: -25px 79px 0px 0px;
+	}
+	.fourth-cell {
+		margin: -25px 0px 0px 79px;
+	}
+	.fifth-cell {
+		bottom: -24.4%;
+		left: 7%;
+	}
+	.garanties-cell {
+		top: 146%;
+		left: 7%;
+	}
+	.sample-cell {
+		top: 121.6%;
+		left: 32%;
+	}
+	.call-cell {
+		top: 170.5%;
+		left: 20%;
+	}
+	.five-steps-cell {
+		top: -27%;
+		left: 7%;
+	}
 }

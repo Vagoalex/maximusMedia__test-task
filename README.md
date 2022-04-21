@@ -3,15 +3,21 @@
 ### Вот ссылка на GitHub pages
 
 #### Ссылка на проект wildberries
+
 _https://vagoalex.github.io/maximusMedia__test-task/deploy/wildberries/_
 
 #### Ссылка на проект working
+
 _https://vagoalex.github.io/maximusMedia__test-task/deploy/working/_
 
 Выполнено:
 
 - Wildberries (с адаптивом),
-- Working (в процессе, выполнена только desktop версия, сейчас 15:40, 21.04, начинаю делать адаптив)
+- Working (c адаптивом)
+
+## Важно!
+
+### При git clone, запускать проект из папки: любая папка/maximusMedia\_\_test-task/deploy... , чтобы прогрузились картинки, шрифты и иконки.
 
 - _Мои соц сети:_
   - GitHub: _github.com/Vagoalex_
