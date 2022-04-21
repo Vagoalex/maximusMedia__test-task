@@ -1,0 +1,13 @@
+.main {
+	background: #fff;
+	height: 100%;
+}
+.header {
+	padding-top: 120px;
+}
+.header__title {
+	margin: 0;
+	font-weight: 700;
+	font-size: 79px;
+	line-height: 87.5%;
+}
