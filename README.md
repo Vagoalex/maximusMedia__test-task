@@ -2,7 +2,11 @@
 
 ### Вот ссылка на GitHub pages
 
+#### Ссылка на проект wildberries
 _https://vagoalex.github.io/maximusMedia__test-task/deploy/wildberries/_
+
+#### Ссылка на проект working
+_https://vagoalex.github.io/maximusMedia__test-task/deploy/working/_
 
 Выполнено:
 
